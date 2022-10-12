@@ -1,6 +1,5 @@
-
 <div class="photo-and-name">
-    <img src="/src/assets/profile.jpg" class="photo" alt="Profile" />
+    <img src="/profile.jpg" class="photo" alt="Profile" />
     <div class="contact-info-box">
       <h1 class="name">Karam Shbeb</h1>
       <br />

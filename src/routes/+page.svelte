@@ -2,7 +2,7 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>Karam Shbeb</title>
 	<meta name="home" content="Svelte demo app" />
 </svelte:head>
 

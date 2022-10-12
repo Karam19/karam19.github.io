@@ -15,6 +15,9 @@ const config = {
 	paths: {
 		base: dev ? '' : '/fwd-svelte',
 	},
+	files:{
+		assets:'./static'
+	}
 };
 
 export default config;
