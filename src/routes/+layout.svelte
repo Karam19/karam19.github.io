@@ -17,20 +17,24 @@
 			<button
 				class="button"
 				on:click={() => {
-					window.location.href = base + '/';
-				}}>Home</button
+					// window.location.href = base + '/';
+				}}
 			>
+				<a class="new-a" href="/">Home</a>
+			</button>
 			<button
 				class="button2"
 				on:click={() => {
-					window.location.href = base + '/Info';
-				}}>Info about me</button
+					// window.location.href = base + '/Info';
+				}}
+			>
+				<a class="new-a" href="/Info">Info about me</a></button
 			>
 			<button
 				class="button"
 				on:click={() => {
-					window.location.href = base + '/Coins';
-				}}>Coins</button
+					// window.location.href = base + '/Coins';
+				}}><a class="new-a" href="/Coins">Coins</a></button
 			>
 		</nav>
 		<slot />
@@ -43,6 +47,10 @@
 	* {
 		max-width: 1000px;
 		margin: auto;
+	}
+
+	.new-a {
+		color: white;
 	}
 	.button {
 		background-color: rgb(202, 201, 103);
