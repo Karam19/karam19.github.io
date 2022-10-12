@@ -1,11 +1,11 @@
 {
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "_app/immutable/start-79dfad7c.js",
+    "file": "_app/immutable/start-0f43beb2.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
       "_index-6fd879b1.js",
-      "_singletons-55dd2d34.js",
+      "_singletons-3ca46567.js",
       "_paths-6cd3a76e.js"
     ],
     "dynamicImports": [
@@ -29,12 +29,12 @@
     ]
   },
   "node_modules/@sveltejs/kit/src/runtime/components/error.svelte": {
-    "file": "_app/immutable/components/error.svelte-90ce9102.js",
+    "file": "_app/immutable/components/error.svelte-920ee361.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/components/error.svelte",
     "isEntry": true,
     "imports": [
       "_index-6fd879b1.js",
-      "_singletons-55dd2d34.js"
+      "_singletons-3ca46567.js"
     ]
   },
   "src/routes/+page.svelte": {
@@ -96,8 +96,8 @@
       "__page-35ca0d96.js"
     ]
   },
-  "_singletons-55dd2d34.js": {
-    "file": "_app/immutable/chunks/singletons-55dd2d34.js",
+  "_singletons-3ca46567.js": {
+    "file": "_app/immutable/chunks/singletons-3ca46567.js",
     "imports": [
       "_index-6fd879b1.js",
       "_paths-6cd3a76e.js"
@@ -136,7 +136,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/1.js": {
-    "file": "_app/immutable/chunks/1-d47591b8.js",
+    "file": "_app/immutable/chunks/1-df70f405.js",
     "src": ".svelte-kit/generated/nodes/1.js",
     "isDynamicEntry": true,
     "imports": [
@@ -174,6 +174,10 @@
     "file": "_app/immutable/assets/_layout-a5a6ee04.css",
     "src": "src/routes/+layout.css"
   },
+  "src/routes/Info/+page.css": {
+    "file": "_app/immutable/assets/_page-0cc2e052.css",
+    "src": "src/routes/Info/+page.css"
+  },
   "src/routes/Coins/+page.css": {
     "file": "_app/immutable/assets/_page-719e2d90.css",
     "src": "src/routes/Coins/+page.css"
@@ -181,9 +185,5 @@
   "src/routes/+page.css": {
     "file": "_app/immutable/assets/_page-c7dd9a31.css",
     "src": "src/routes/+page.css"
-  },
-  "src/routes/Info/+page.css": {
-    "file": "_app/immutable/assets/_page-0cc2e052.css",
-    "src": "src/routes/Info/+page.css"
   }
 }
