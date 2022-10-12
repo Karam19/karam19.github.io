@@ -1,5 +1,5 @@
 <div class="photo-and-name">
-    <img src="/profile.jpg" class="photo" alt="Profile" />
+    <img src="https://i.ibb.co/yyFjfT1/profile.jpg" class="photo" alt="Profile" />
     <div class="contact-info-box">
       <h1 class="name">Karam Shbeb</h1>
       <br />
@@ -17,7 +17,6 @@
   max-width: 1000px;
   margin: auto;
 }
- 
 .photo {
   width: 15%;
   min-width: 130px;
