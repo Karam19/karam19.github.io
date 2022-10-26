@@ -1,5 +1,5 @@
 export interface coinsType {
-  id: string;
-  name: string;
-  min_size: number;
+	id: string;
+	name: string;
+	min_size: number;
 }

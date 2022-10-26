@@ -1,7 +1,6 @@
 <script lang="ts">
 	import Heading from '../lib/Heading.svelte';
 	import Links from '../lib/Links.svelte';
-	import { base } from '$app/paths';
 </script>
 
 <main>

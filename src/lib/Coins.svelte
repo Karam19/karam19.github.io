@@ -9,7 +9,7 @@
 			.then((response: Response) => response.json())
 			.then((data: dataType) => {
 				coinsData = data.data;
-				for (let i: number = 0; i < 11; i++) {
+				for (let i = 0; i < 11; i++) {
 					coins[i] = coinsData[i + 117].id + ': ' + coinsData[i + 117].name;
 				}
 			});
